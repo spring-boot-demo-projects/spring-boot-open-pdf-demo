@@ -1,4 +1,4 @@
-package com.example.pdf.service.core.pdf;
+package com.example.pdf.core.pdf;
 
 import java.util.Map;
 

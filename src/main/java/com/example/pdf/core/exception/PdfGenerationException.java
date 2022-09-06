@@ -1,4 +1,4 @@
-package com.example.pdf.service.core.exception;
+package com.example.pdf.core.exception;
 
 @SuppressWarnings("unused")
 public class PdfGenerationException extends RuntimeException {

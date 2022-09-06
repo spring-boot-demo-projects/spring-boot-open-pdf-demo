@@ -1,6 +1,6 @@
 package com.example.pdf.service.report.internal;
 
-import com.example.pdf.service.core.pdf.HtmlToPdfGenerator;
+import com.example.pdf.core.pdf.HtmlToPdfGenerator;
 import com.example.pdf.service.report.ReportService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
