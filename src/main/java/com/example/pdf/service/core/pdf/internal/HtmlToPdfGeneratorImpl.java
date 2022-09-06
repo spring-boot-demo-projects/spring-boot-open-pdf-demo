@@ -1,7 +1,7 @@
-package com.example.pdf.core.pdf.internal;
+package com.example.pdf.service.core.pdf.internal;
 
-import com.example.pdf.core.html.HtmlGenerator;
-import com.example.pdf.core.pdf.HtmlToPdfGenerator;
+import com.example.pdf.service.core.html.HtmlGenerator;
+import com.example.pdf.service.core.pdf.HtmlToPdfGenerator;
 import com.example.pdf.core.exception.PdfGenerationException;
 import com.lowagie.text.Document;
 import com.lowagie.text.html.HtmlParser;

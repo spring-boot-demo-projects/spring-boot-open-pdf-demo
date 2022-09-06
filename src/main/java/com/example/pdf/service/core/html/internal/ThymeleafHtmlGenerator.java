@@ -1,6 +1,6 @@
-package com.example.pdf.core.html.internal;
+package com.example.pdf.service.core.html.internal;
 
-import com.example.pdf.core.html.HtmlGenerator;
+import com.example.pdf.service.core.html.HtmlGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.i18n.LocaleContextHolder;
 import org.springframework.stereotype.Component;
